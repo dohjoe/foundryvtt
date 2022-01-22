@@ -1,0 +1,239 @@
+{
+  "message": "List generated with Forien's Copy Environment: https://github.com/League-of-Foundry-Developers/foundryvtt-forien-copy-environment",
+  "core": {
+    "version": "9.242"
+  },
+  "system": {
+    "id": "pf2e",
+    "version": "3.2.2.10109",
+    "author": "The PF2e System Developers",
+    "manifest": "https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release-v9/raw/system.json?job=build"
+  },
+  "modules": [
+    {
+      "id": "advanced-macros",
+      "version": "1.13",
+      "author": "KaKaRoTo",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-advanced-macros/releases/latest/download/module.json"
+    },
+    {
+      "id": "ambientdoors",
+      "version": "2.2.6",
+      "author": "EndlesNights#9000",
+      "manifest": "https://raw.githubusercontent.com/EndlesNights/ambientdoors/master/module.json"
+    },
+    {
+      "id": "colorsettings",
+      "version": "2.8.2",
+      "author": "ardittristan#0001",
+      "manifest": "https://raw.githubusercontent.com/ardittristan/VTTColorSettings/master/module.json"
+    },
+    {
+      "id": "combat-carousel",
+      "version": "0.2.5",
+      "author": "Evan Clarke [errational#2007]",
+      "manifest": "https://github.com/death-save/combat-carousel/releases/latest/download/module.json"
+    },
+    {
+      "id": "combat-enhancements",
+      "version": "1.1.0",
+      "author": "Asacolips",
+      "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json"
+    },
+    {
+      "id": "dfreds-droppables",
+      "version": "1.4.0",
+      "author": "DFreds",
+      "manifest": "https://github.com/DFreds/dfreds-droppables/releases/latest/download/module.json"
+    },
+    {
+      "id": "dice-calculator",
+      "version": "1.4.1",
+      "author": "Asacolips",
+      "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json"
+    },
+    {
+      "id": "dice-so-nice",
+      "version": "4.3.1",
+      "author": "Simone, JDW",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+    },
+    {
+      "id": "drag-ruler",
+      "version": "1.10.2",
+      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
+    },
+    {
+      "id": "forien-copy-environment",
+      "version": "2.0.7",
+      "author": "Forien — Forien#2130",
+      "manifest": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-copy-environment/releases/latest/download/module.json"
+    },
+    {
+      "id": "furnace",
+      "version": "2.6.1",
+      "author": "KaKaRoTo",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-furnace/releases/latest/download/module.json"
+    },
+    {
+      "id": "fxmaster",
+      "version": "2.2.2",
+      "author": "U~man, Johannes Loher (ghost#2000)",
+      "manifest": "https://github.com/ghost-fvtt/fxmaster/releases/latest/download/module.json"
+    },
+    {
+      "id": "healthEstimate",
+      "version": "2.6.20",
+      "author": "MClemente, Shylight",
+      "manifest": "https://github.com/mclemente/healthEstimate/releases/latest/download/module.json"
+    },
+    {
+      "id": "initiative-double-click",
+      "version": "1.5",
+      "author": "KaKaRoTo",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-initiative-double-click/releases/latest/download/module.json"
+    },
+    {
+      "id": "lessfog",
+      "version": "0.9.0",
+      "author": "trdischat",
+      "manifest": "https://github.com/trdischat/lessfog/releases/latest/download/module.json"
+    },
+    {
+      "id": "lib-wrapper",
+      "version": "1.11.4.0",
+      "author": "Rui Pinheiro",
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+    },
+    {
+      "id": "maestro",
+      "version": "0.8.0",
+      "author": "Evan Clarke (errational#2007)",
+      "manifest": "https://github.com/death-save/maestro/releases/latest/download/module.json"
+    },
+    {
+      "id": "pathbuilder2e-import",
+      "version": "0.7.5",
+      "author": "slate",
+      "manifest": "https://raw.githubusercontent.com/zarmstrong/foundry-pathbuilder2e-import/master/module.json"
+    },
+    {
+      "id": "pathfinder-ui",
+      "version": "9.242.7",
+      "author": "Sasmira",
+      "manifest": "https://gitlab.com/sasmira/pathfinder-ui/-/raw/master/module/module.json"
+    },
+    {
+      "id": "pdftofoundry",
+      "version": "3.1.0",
+      "author": "fryguy",
+      "manifest": "https://gitlab.com/fryguy1013/pdftofoundry/-/jobs/artifacts/release/raw/static_module/module.json?job=build"
+    },
+    {
+      "id": "pf2e-dragruler",
+      "version": "0.6.1",
+      "author": "Velara [Avery#9136]",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/pf2edragruler/main/module.json"
+    },
+    {
+      "id": "pf2e-f-is-for-flatfooted",
+      "version": "3.3.0",
+      "author": "DrentalBot <drentalbot@crumblinggiant.com>",
+      "manifest": "https://github.com/Drental/foundryvtt-pf2e-f-is-for-flatfooted/releases/latest/download/module.json"
+    },
+    {
+      "id": "pf2e-persistent-damage",
+      "version": "0.8.3",
+      "author": "Supe",
+      "manifest": "https://github.com/CarlosFdez/pf2e-persistent-damage/releases/latest/download/module.json"
+    },
+    {
+      "id": "ping-logger",
+      "version": "1.2.15",
+      "author": "hypnoCode",
+      "manifest": "https://raw.githubusercontent.com/mawburn/foundry-ping-logger/main/src/module.json"
+    },
+    {
+      "id": "pings",
+      "version": "1.3.0",
+      "author": "Azzurite#2004",
+      "manifest": "https://gitlab.com/foundry-azzurite/pings/-/jobs/artifacts/master/raw/dist/pings/module.json?job=build"
+    },
+    {
+      "id": "polyglot",
+      "version": "1.7.28",
+      "author": "MClemente,KaKaRoTo,elizeuangelo",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot/releases/latest/download/module.json"
+    },
+    {
+      "id": "popout",
+      "version": "2.1",
+      "author": "KaKaRoTo, Posnet",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/fvtt-module-popout/master/module.json"
+    },
+    {
+      "id": "settings-extender",
+      "version": "1.2.0",
+      "author": "Azzurite#2004",
+      "manifest": "https://gitlab.com/foundry-azzurite/settings-extender/-/jobs/artifacts/1.2.0/raw/dist/settings-extender/module.json?job=build"
+    },
+    {
+      "id": "socketlib",
+      "version": "1.0.10",
+      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json"
+    },
+    {
+      "id": "split-journal",
+      "version": "1.1",
+      "author": "KaKaRoTo",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-split-journal/releases/latest/download/module.json"
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "version": "0.1.30",
+      "author": "sdenec",
+      "manifest": "https://raw.githubusercontent.com/sdenec/tidy-ui_game-settings/master/module.json"
+    },
+    {
+      "id": "token-action-hud",
+      "version": "2.0.10",
+      "manifest": "https://github.com/Drental/fvtt-tokenactionhud/releases/latest/download/module.json"
+    },
+    {
+      "id": "token-auras",
+      "version": "1.15",
+      "author": "Kim Mantas",
+      "manifest": "https://bitbucket.org/Fyorl/token-auras/raw/master/module.json"
+    },
+    {
+      "id": "token-mold",
+      "version": "2.14.0",
+      "author": "Moerill",
+      "manifest": "https://raw.githubusercontent.com/Moerill/token-mold/master/module.json"
+    },
+    {
+      "id": "tokenmagic",
+      "version": "0.5.3",
+      "author": "SecretFire, sPOiDar, Moerill, dev7355608",
+      "manifest": "https://raw.githubusercontent.com/Feu-Secret/Tokenmagic/master/tokenmagic/module.json"
+    },
+    {
+      "id": "turnAlert",
+      "version": "2.0.0",
+      "author": "Cole Schultz (cole#9640)",
+      "manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Turn-Alert/master/module.json"
+    },
+    {
+      "id": "turnmarker",
+      "version": "2.9.0",
+      "author": "kckaiwei",
+      "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.9.0/src/module.json"
+    },
+    {
+      "id": "vtta-tokenizer",
+      "version": "3.5.0",
+      "author": "MrPrimate (jack@mrprimate.co.uk), Sebastian Will (vttassets@gmail.com)",
+      "manifest": "https://github.com/mrprimate/vtta-tokenizer/releases/download/latest/module.json"
+    }
+  ]
+}
